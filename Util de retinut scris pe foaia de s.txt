@@ -1,0 +1,4 @@
+Util de retinut/ scris pe foaia de sintaxa: 
+1. functii pentru std::vector (erase, find  etc.)
+2. try ... catch specific pt cele doua tipuri de erori (std::cin.fail() --> ... ignre (numeric_limits )<streamsize> ... )
+3. supraincarcarea de operatori corecta (scrisa in modelele de la tutoriat)
